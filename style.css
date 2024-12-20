@@ -1,0 +1,25 @@
+
+.container .card{
+    margin-top: 30px;
+    margin-left: 37%;
+}
+.debit h5{
+    font-weight: 600;
+    text-align: center;
+}
+.hrone {
+    border: 1.5px solid black;
+}
+span {
+    font-weight: 700;
+    color: rgb(130, 0, 0);
+}
+
+@media (max-width: 768px) { 
+    .container .card {
+        margin-left: 15%;
+    }
+    .debit h5 {
+        font-size: 15px;
+    }
+}
